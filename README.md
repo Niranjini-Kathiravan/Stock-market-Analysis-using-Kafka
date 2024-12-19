@@ -1,4 +1,4 @@
-## STOCK MARKET ANALYSIS using KAFKA and AWS
+## STOCK MARKET ANALYSIS using Kafka and AWS
 
 - In this project, we will be executing end-to-end data engineering pipeline for Stock market analysis.
 
